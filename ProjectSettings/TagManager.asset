@@ -16,7 +16,7 @@ TagManager:
   - PhysicsObject
   - PhysicsObjectPassthrough
   - UnclimableWall
-  - 
+  - Ground
   - 
   - 
   - 
