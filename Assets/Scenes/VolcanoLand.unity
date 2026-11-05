@@ -700,6 +700,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBox
       objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 552387e5712f19345902f5e9f16bb09e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
