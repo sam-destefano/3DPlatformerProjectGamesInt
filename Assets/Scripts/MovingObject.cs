@@ -195,4 +195,12 @@ public class MovingObject : MonoBehaviour
         currentNodeStartScale = transform.localScale;
         currentTargetScale = GetCurrentNodeScale();
     }
+    public void StartMoving()
+    {
+        isMoving = true;
+    }
+    public void StopMoving()
+    {
+        isMoving = false;
+    }
 }
